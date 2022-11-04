@@ -1,5 +1,15 @@
 Nel corso di Automazione Industrale per creare delle Reti di Petri ho usato Pipe.
+Pipe--->AMBIENTE DI SVILUPPO PER 
 
 Durante il corso abbiamo parlato di Impianti manufatturieri.Per la loro simulazione introduciamo gli Automi e le Reti di petri che simulano le varie attività che si svolgono. Nell' esempio riportato qui sotto cerco di caratterizzare una Rete e le attivita dei macchinari:
 
-![IMG22](https://user-images.githubusercontent.com/66262425/200028446-3e9edd64-ebdf-42d0-bcc7-8f55c1452d5b.png)
+![](https://user-images.githubusercontent.com/66262425/200028446-3e9edd64-ebdf-42d0-bcc7-8f55c1452d5b.png)
+
+Trovo molto interesante simulare le attivita di un qualsiasi modello di riferimento ad esempio una macchinetta del caffe o un impianto manufatturiero.Puo definire moltissimi modelli; pertanto vorrei condividerlo con voi e che spero vi sia utile..
+Attenzione!!!
+Per far partire il programma 
+1_Scaricate tutti i file (anche i miei esempi se vuoi)
+2_Metteteli un una cartella
+3_Fate il run del file .exe 
+4_Si apre il programma dalla prompt ,setta delle impostazioni e poi apre l'applicazione Pipe
+Non potete salvare file all interno dell' applicazione.
