@@ -1,10 +1,3 @@
-Functionality enhancement: 
-	Functional transition rates and functional arc weights.
+Nel corso di Automazione Industrale per creare delle Reti di Petri ho usato Pipe.
 
-New feature: Infinite-server semantics. 
-
-Bug fixing: 
-	state space exploration bug; 
-	Import from eDSPN file bug temporal fix;
-	deleting Petri net component bug.
-
+Durante il corso abbiamo parlato di Impianti manufatturieri.Per la loro simulazione introduziamo gli Automi e le Reti di petri che simulano le varie attivita che si svolgono. Nell' esempio riportato qui sotto cerco di caratterizzare una Rete e le attivita dei macchinari:
