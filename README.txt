@@ -5,7 +5,7 @@ Nel corso di Automazione Industrale abbiamo parlato di Reti di petri (e Automi) 
 
 ![github-large](https://github.com/Langiott/PIPE/blob/28836f9481345a3b04642acaeb4fe90eeae91b6b/IMG22.png)
 
-Trovo molto interesante simulare le attivita di un qualsiasi modello di riferimento ad esempio una macchinetta del caffe o un impianto manufatturiero.Puo definire moltissimi modelli; pertanto vorrei condividerlo con voi e che spero vi sia utile..
+Trovo molto interesante simulare le attivita di un qualsiasi modello di riferimento ad esempio una macchinetta del caffe o un impianto manufatturiero.Puo definire moltissimi modelli a tuo piacimento; pertanto vorrei condividerlo con voi ,spero vi sia utile..
 Attenzione!!!
 Per far partire il programma 
 1_Scaricate tutti i file (anche i miei esempi se vuoi)
